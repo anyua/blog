@@ -41,6 +41,9 @@ pygmentsCodefencesGuessSyntax = true # 對沒有指定程式類型的 Code Fence
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   highlightColor = "#e22d30" # Override highlight color
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
 
 
 [Params.widgets.social]
