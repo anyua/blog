@@ -3,10 +3,10 @@ title: "论文阅读笔记：Regularizing Reasons for Outﬁt Evaluation with Gr
 date: 2020-02-28T17:35:28+08:00
 draft: false
 Categories:
-	- Technique
-Tag:
-	- Deeplearning
-	- Fashion
+ - "Technique"
+tags:
+ - "Deeplearning"
+ - "Fashion"
 Toc: false
 ---
 
