@@ -10,7 +10,7 @@ pygmentsCodeFences = true # 啟動 Code Fence 區域的高亮效果
 pygmentsCodefencesGuessSyntax = true # 對沒有指定程式類型的 Code Fence 自行推導語言類型
 
 [Author] # Used in authorbox
-  name = "ANYUA"
+  name = "Earcalo"
   bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
   avatar = "img/avatar.png"
 
